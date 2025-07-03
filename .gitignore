@@ -1,0 +1,7 @@
+# Project exclude paths
+/venv/
+/assets/
+/charmer/fixed_phone_numbers.txt
+/charmer/valid_phone_numbers.txt
+
+/.idea/
